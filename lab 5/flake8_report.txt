@@ -1,0 +1,5 @@
+auction_system.py:44:80: E501 line too long (87 > 79 characters)
+auction_system.py:94:80: E501 line too long (81 > 79 characters)
+auction_system.py:95:80: E501 line too long (80 > 79 characters)
+auction_system.py:118:80: E501 line too long (80 > 79 characters)
+auction_system.py:119:80: E501 line too long (81 > 79 characters)
