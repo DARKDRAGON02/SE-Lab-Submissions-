@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.hypothesis/
+*.orig
+report.aux
+report.log
+report.fls
+report.fdb_latexmk
